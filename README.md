@@ -6,8 +6,8 @@ This Repo contains the cloud functions like IBM FUNCTIONS, Google Functions, azu
 * Clone the REPO<br/>
 * Run the Docker the file </br>
 * Set the Enviormental Variable.<br/>
-* SET the services that you may want to use like ec2, s3 etc
-* docker-compose up
+* SET the services that you may want to use like ec2, s3 etc<br/>
+* docker-compose up<br/>
 Youtube TuT: https://www.youtube.com/watch?v=fzpY7x1siHw<br/> 
 LocalStack : https://localstack.cloud/<br/>
 Github LocalStack: https://github.com/localstack/localstack<br/>
