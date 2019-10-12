@@ -14,7 +14,11 @@
 <h2>REF:</h2>
 1. Running Lambda Function Locally :<br> https://www.youtube.com/watch?v=eFIhvKjdISg<br>
 2. Using Layers AWS for dependency manager: <br>
-https://medium.com/@anjanava.biswas/nodejs-runtime-environment-with-aws-lambda-layers-f3914613e20e<br>
-https://www.freecodecamp.org/news/lambda-layers-2f80b9211318/<br />
-https://www.youtube.com/watch?v=ukCEhjXnB60<br/>
+* https://medium.com/@anjanava.biswas/nodejs-runtime-environment-with-aws-lambda-layers-f3914613e20e<br>
+* https://www.freecodecamp.org/news/lambda-layers-2f80b9211318/<br />
+* https://www.youtube.com/watch?v=ukCEhjXnB60<br/>
+
+<h2>Lambda function trigger with s3</h2>
+
+https://youtu.be/EsqjHDpLpB4
 
